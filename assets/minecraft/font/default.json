@@ -154,6 +154,10 @@
          "height":7,
          "ascent":7,
          "type":"bitmap"
-      }      
+      },      
+      {"type": "bitmap","file": "general/logosquare.png","ascent": 55, "height": 80,"chars": ["⿌⿍"]},
+      {"type": "bitmap","file": "general/logosquare.png","ascent": 18.75, "height": 35,"chars": ["җҘ"]},
+      {"type": "bitmap","file": "utils/space.png","ascent": -32768,"height": -3,"chars": ["⿎"]}
+
    ]
 }
