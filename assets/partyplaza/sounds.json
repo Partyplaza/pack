@@ -3,7 +3,7 @@
        "replace":true,
        "sounds":[
           {
-             "name":"woosh",
+             "name":"partyplaza:woosh",
              "volume":100.0,
              "pitch":1.0,
              "weight":1,
@@ -18,7 +18,7 @@
       "replace":true,
       "sounds":[
          {
-            "name":"button_click",
+            "name":"partyplaza:button_click",
             "volume":100.0,
             "pitch":1.0,
             "weight":1,
@@ -33,7 +33,7 @@
       "replace":true,
       "sounds":[
          {
-            "name":"friend_request",
+            "name":"partyplaza:friend_request",
             "volume":100.0,
             "pitch":1.0,
             "weight":1,
@@ -48,7 +48,7 @@
       "replace":true,
       "sounds":[
          {
-            "name":"leveling_1",
+            "name":"partyplaza:leveling_1",
             "volume":100.0,
             "pitch":1.0,
             "weight":1,
@@ -63,7 +63,7 @@
       "replace":true,
       "sounds":[
          {
-            "name":"leveling_2",
+            "name":"partyplaza:leveling_2",
             "volume":100.0,
             "pitch":1.0,
             "weight":1,
@@ -78,7 +78,7 @@
       "replace":true,
       "sounds":[
          {
-            "name":"party_invite",
+            "name":"partyplaza:party_invite",
             "volume":100.0,
             "pitch":1.0,
             "weight":1,
@@ -93,7 +93,7 @@
       "replace":true,
       "sounds":[
          {
-            "name":"party_join",
+            "name":"partyplaza:party_join",
             "volume":100.0,
             "pitch":1.0,
             "weight":1,
@@ -108,7 +108,7 @@
       "replace":true,
       "sounds":[
          {
-            "name":"party_leader",
+            "name":"partyplaza:party_leader",
             "volume":100.0,
             "pitch":1.0,
             "weight":1,
@@ -123,7 +123,7 @@
       "replace":true,
       "sounds":[
          {
-            "name":"party_leave",
+            "name":"partyplaza:party_leave",
             "volume":100.0,
             "pitch":1.0,
             "weight":1,
@@ -138,7 +138,7 @@
       "replace":true,
       "sounds":[
          {
-            "name":"queue_cancel",
+            "name":"partyplaza:queue_cancel",
             "volume":100.0,
             "pitch":1.0,
             "weight":1,
@@ -153,7 +153,7 @@
       "replace":true,
       "sounds":[
          {
-            "name":"queue_countdown",
+            "name":"partyplaza:queue_countdown",
             "volume":100.0,
             "pitch":1.0,
             "weight":1,
@@ -168,7 +168,7 @@
       "replace":true,
       "sounds":[
          {
-            "name":"queue_joining",
+            "name":"partyplaza:queue_joining",
             "volume":100.0,
             "pitch":1.0,
             "weight":1,
@@ -183,7 +183,7 @@
       "replace":true,
       "sounds":[
          {
-            "name":"queue_success",
+            "name":"partyplaza:queue_success",
             "volume":100.0,
             "pitch":1.0,
             "weight":1,
@@ -198,7 +198,7 @@
       "replace":true,
       "sounds":[
          {
-            "name":"queue_teleport",
+            "name":"partyplaza:queue_teleport",
             "volume":100.0,
             "pitch":1.0,
             "weight":1,
@@ -213,7 +213,7 @@
       "replace":true,
       "sounds":[
          {
-            "name":"server_announcement",
+            "name":"partyplaza:server_announcement",
             "volume":100.0,
             "pitch":1.0,
             "weight":1,
@@ -228,7 +228,7 @@
       "replace":true,
       "sounds":[
          {
-            "name":"death",
+            "name":"partyplaza:death",
             "volume":100.0,
             "pitch":1.0,
             "weight":1,
