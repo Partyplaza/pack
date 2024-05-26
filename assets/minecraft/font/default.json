@@ -1,0 +1,159 @@
+{
+   "providers":[
+      {
+         "type": "bitmap",
+         "file": "font/space_split.png",
+         "ascent": -32768,
+         "height": -3, 
+         "chars": [
+               "\uF801"
+         ]
+      },   
+      {
+         "type": "bitmap",
+         "file": "font/black.png",
+         "ascent": 500,
+         "height": 2048,
+         "shift": [3.0, 50.0],
+         "chars": [  
+            "⑬"
+         ]
+      },      
+      {
+         "type": "bitmap",
+         "file": "minecraft:font/emortalmc-menu.png",
+         "ascent": 25,
+         "height": 80,
+         "chars": [
+            "\uE003"
+         ]
+      },
+      {
+         "type": "bitmap",
+         "file": "minecraft:font/emortalmc-menu-2.png",
+         "ascent": 25,
+         "height": 80,
+         "chars": [
+            "\uE004"
+         ]
+      },   
+     
+      {
+         "file":"font/ranks/owner.png",
+         "chars":[
+            "⓪"
+         ],
+         "height":7,
+         "ascent":7,
+         "type":"bitmap"
+      },
+      {
+         "file":"font/ranks/developer.png",
+         "chars":[
+            "②"
+         ],
+         "height":7,
+         "ascent":7,
+         "type":"bitmap"
+      },
+      {
+         "file":"font/ranks/admin.png",
+         "chars":[
+            "③"
+         ],
+         "height":7,
+         "ascent":7,
+         "type":"bitmap"
+      },
+      {
+         "file":"font/ranks/builder.png",
+         "chars":[
+            "④"
+         ],
+         "height":7,
+         "ascent":7,
+         "type":"bitmap"
+      },
+      {
+         "file":"font/ranks/mod.png",
+         "chars":[
+            "⑤"
+         ],
+         "height":7,
+         "ascent":7,
+         "type":"bitmap"
+      },
+      {
+         "file":"font/ranks/helper.png",
+         "chars":[
+            "⑥"
+         ],
+         "height":7,
+         "ascent":7,
+         "type":"bitmap"
+      },
+      {
+         "file":"font/ranks/player.png",
+         "chars":[
+            "⑦"
+         ],
+         "height":7,
+         "ascent":7,
+         "type":"bitmap"
+      },
+      {
+         "file":"font/ranks/vip.png",
+         "chars":[
+            "⑧"
+         ],
+         "height":7,
+         "ascent":7,
+         "type":"bitmap"
+      },
+      {
+         "file":"font/ranks/vipp.png",
+         "chars":[
+            "⑨"
+         ],
+         "height":7,
+         "ascent":7,
+         "type":"bitmap"
+      },
+      {
+         "file":"font/ranks/mvp.png",
+         "chars":[
+            "⑩"
+         ],
+         "height":7,
+         "ascent":7,
+         "type":"bitmap"
+      },
+      {
+         "file":"font/ranks/mvpp.png",
+         "chars":[
+            "⑪"
+         ],
+         "height":7,
+         "ascent":7,
+         "type":"bitmap"
+      },
+      {
+         "file":"font/ranks/youtuber.png",
+         "chars":[
+            "⑫"
+         ],
+         "height":7,
+         "ascent":7,
+         "type":"bitmap"
+      },
+      {
+         "file":"font/ranks/twitch.png",
+         "chars":[
+            "⑫"
+         ],
+         "height":7,
+         "ascent":7,
+         "type":"bitmap"
+      }      
+   ]
+}
