@@ -3,7 +3,7 @@ name: Resourcepack Zipper
 on:
   push:
     branches:
-      - main  # Adjust this branch name if needed
+      - main
 
 jobs:
   build:
@@ -15,14 +15,6 @@ jobs:
       with:
         fetch-depth: 0 # A non-shallow repository clone is required
 
-    # - name: Run PackSquash
-    #   uses: ComunidadAylas/PackSquash-action@v4
-    #   with:
-    #     packsquash_version: latest # Uses the latest PackSquash release supported by the action
-    #     options: |
-    #       pack_directory = '.'
-          
-    #       shader_source_transformation_strategy = 'keep_as_is'
         
     - name: Retrieve the current time of Amsterdam
       shell: bash
@@ -36,14 +28,6 @@ jobs:
         MINOR=$(echo ${{ github.run_number }} | awk '{printf "%d", ($1/10)%10}')
         MAJOR=1
         echo "::set-output name=VERSION::${MAJOR}.${MINOR}.${PATCH}"
-
-
-    - name: Update pack.mcmeta
-      uses: jossef/action-set-json-field@v2.1
-      with:
-        file: pack.mcmeta
-        field: pack.description
-        value: "Mineville | v${{ steps.version.outputs.VERSION }}\n${{ env.START_TIME }}"
 
     - name: Create ZIP file
       run: |
