@@ -3,6 +3,10 @@
         {
             "type": "single",
             "resource": "partyplaza:sheep_shenanigans/bell"
+        },
+        {
+            "type": "single",
+            "resource": "partyplaza:partyplaza"
         }
     ]
 }
